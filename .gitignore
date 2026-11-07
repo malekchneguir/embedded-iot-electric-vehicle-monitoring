@@ -1,0 +1,12 @@
+Debug/
+Release/
+.vs/
+.settings/
+malekchneguir/
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+*.cyclo
